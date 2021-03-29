@@ -1,6 +1,6 @@
 #include "clingwrap.hpp"
 #include "fs.hpp"
-
+#include <switch.h>
 // Global filesystem variables
 FsFileSystem *fs;
 FsFileSystem devices[4];
